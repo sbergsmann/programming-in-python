@@ -1,7 +1,7 @@
 # Programming in Python I
 
 ## Goals
-
+123
 Python (www.python.org) is one of the most commonly used Programming languages in machine learning and AI.
 It is a powerful and versatile programming language that allows for fast prototyping in simple scripts up to complex software development.
 These materials shall provide an introduction to programming and Python with a focus on Machine Learning.
