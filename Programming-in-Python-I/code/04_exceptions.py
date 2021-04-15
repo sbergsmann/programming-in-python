@@ -92,10 +92,10 @@ except (ValueError, TypeError) as ex1:
         a = 1 + [4, 5]
     except (ValueError, TypeError) as ex2:
         print(f"We caught the exception {ex2}!")
-        # We could also raise ex1 or ex2 here
+        # We could also raise Unit-01-2021XXXX or ex2 here
         print(f"ex1: {ex1}")
         print(f"ex2: {ex2}")
-    # Here we could raise ex1 but we will just print it
+    # Here we could raise Unit-01-2021XXXX but we will just print it
     print(f"ex1: {ex1}")
 
 
